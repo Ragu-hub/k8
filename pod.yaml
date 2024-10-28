@@ -27,6 +27,6 @@ spec:
     spec:
       containers:
         - name: hello
-          image: iamragu/new1image:latest
+          image: iamragu/newimage:latest
           imagePullPolicy: Always
 
